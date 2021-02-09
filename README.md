@@ -1,2 +1,3 @@
 # Brincando
 Tentado dar um jeito de interagir C++ com JavaScript, bem básico...
+## Obs.: Ainda tenho q arrumar esse parse JSON
